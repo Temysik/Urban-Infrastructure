@@ -1,4 +1,4 @@
-#Urban Infrastructure Mod
+Urban Infrastructure Mod
 Urban Infrastructure — это мод для Minecraft 1.16.5, который добавляет разнообразные городские блоки и элементы инфраструктуры. Этот мод разработан с целью улучшить строительство современных городов в Minecraft, делая их более реалистичными и интересными.
 
 📦 Особенности
@@ -33,10 +33,10 @@ Urban Infrastructure — это мод для Minecraft 1.16.5, который �
 Создатель: Temysik
 Контакты: bogininartem@gmail.com
 Телеграм: https://t.me/bog1nidze
-
-
-
-№Urban Infrastructure Mod
+.
+.
+.
+Urban Infrastructure Mod
 Urban Infrastructure is a Minecraft 1.16.5 mod that adds various urban blocks and infrastructure elements. The mod is designed to enhance the building experience of modern cities in Minecraft, making them more realistic and engaging.
 
 📦 Features
