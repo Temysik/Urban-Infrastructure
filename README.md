@@ -1,7 +1,8 @@
-<РУССКИЙ ЯЗЫК>
+РУССКИЙ ЯЗЫК
 ---
 
 Начало разработки: ~лето 2022
+
 Конец разработки: зима 2024
 
 Urban Infrastructure — это мод для Minecraft 1.16.5, который добавляет разнообразные городские блоки и элементы инфраструктуры. Этот мод разработан с целью улучшить строительство современных городов в Minecraft, делая их более реалистичными и интересными.
@@ -41,8 +42,8 @@ Urban Infrastructure — это мод для Minecraft 1.16.5, который �
 
 Телеграм: https://t.me/bog1nidze / https://t.me/danyagalitsky
 
-<ENGLISH LANGUAGE>
-
+ENGLISH LANGUAGE
+---
 Start of development: ~Summer 2022
 End of development: Winter 2024
 
@@ -79,5 +80,7 @@ Please credit the original author in your project or contact me to discuss detai
 Thank you to everyone who supported the development, contributed ideas, and helped test the mod. This project wouldn’t have achieved its success without you.
 
 Developers: Temysik, Nesteys
+
 In Contact: bogininartem@gmail.com 
+
 The telegram: https://t.me/bog1nidze / https://t.me/danyagalitsky
