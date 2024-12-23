@@ -36,8 +36,8 @@ Urban Infrastructure — это мод для Minecraft 1.16.5, который �
 Спасибо всем, кто поддерживал разработку, вносил идеи и помогал тестировать мод. Без вас проект не достиг бы своих высот.
 
 Разработчики: Temysik, Nesteys
-Контакты: bogininartem@gmail.com / https://t.me/danyagalitsky
-Телеграм: https://t.me/bog1nidze
+Контакты: bogininartem@gmail.com 
+Телеграм: https://t.me/bog1nidze / https://t.me/danyagalitsky
 
 ---
 <ENGLISH LANGUAGE>
@@ -78,10 +78,5 @@ Please credit the original author in your project or contact me to discuss detai
 Thank you to everyone who supported the development, contributed ideas, and helped test the mod. This project wouldn’t have achieved its success without you.
 
 Developers: Temysik, Nesteys
-In Contact: bogininartem@gmail.com / https://t.me/danyagalitsky
-The telegram: https://t.me/bog1nidze
-
-
-Creator: Temysik
-Contact: bogininartem@gmail.com
-Telegram: https://t.me/bog1nidze
+In Contact: bogininartem@gmail.com 
+The telegram: https://t.me/bog1nidze / https://t.me/danyagalitsky
